@@ -49,10 +49,6 @@ footer{
 # div.block-container{
 #     padding-top:2rem !important;
 # }
-
-.viewerBadge_link__1S137{
-    visibility:hidden;
-}
 </style>
 """,unsafe_allow_html=True)
 # st.sidebar.success("# Welcome to Stock Prediction App! 👋")
