@@ -1,5 +1,5 @@
-yfinance==0.1.63
-prophet==1.0.1
-plotly==5.4.0
-streamlit==1.4.0
-streamlit_option_menu==0.1.2
+yfinance
+prophet
+plotly
+streamlit
+streamlit_option_menu
